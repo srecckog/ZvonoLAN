@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26606.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp9", "ConsoleApp9\ConsoleApp9.csproj", "{162FA954-D965-4B87-BAE5-13EE7613253C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZvonoLAN", "ConsoleApp9\ZvonoLAN.csproj", "{162FA954-D965-4B87-BAE5-13EE7613253C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
